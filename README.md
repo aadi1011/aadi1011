@@ -6,6 +6,7 @@
 </br>- 🔭 I’m currently working on a Python based Network Analyzer than makes network traffic caputured data easy to interpret.
 </br>- 📫 How to reach me: <a href="mailto:saadith2002@gmail.com">e-mail📧</a> </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aadith-sukumar/">LinkedIn🌐</a>
 
+![GitHub](https://img.shields.io/badge/LinkedIn-Connect-blue?link=https://www.linkedin.com/in/aadith-sukumar/&link=https://www.linkedin.com/in/aadith-sukumar/)
 <!--
 **aadi1011/aadi1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
