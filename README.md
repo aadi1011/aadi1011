@@ -14,9 +14,6 @@ I am a student pursuing B.Tech in Artificial Intelligence & Machine Learning �
 -->
 ![Aadith's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadi1011&theme=github_dark&count_private=true&show_icons=true&hide_rank=true&custom_title=📈Aadith's&nbsp;GitHub&nbsp;Stats&include_all_commits=true)
 
-
-
-
 <!--
 **aadi1011/aadi1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
