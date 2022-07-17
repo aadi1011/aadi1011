@@ -6,13 +6,13 @@ I am a student pursuing B.Tech in Artificial Intelligence & Machine Learning �
 </br>- 🔭 I’m currently working on a Python based Network Analyzer than makes network traffic caputured data easy to interpret.
 </br>- 📫 How to reach me: <a href="mailto:saadith2002@gmail.com">E-mail📧</a> </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aadith-sukumar/">LinkedIn🌐</a>
 
-#### 📖Languages:
+### 📖Languages:
 <a href="https://www.cprogramming.com"><img src="/Assets/c.png" alt="C Programming" style="width:45px;height:45px;"></a>&nbsp;&nbsp;<a href="https://www.cplusplus.org"><img src="/Assets/cpp.png" alt="C Programming" style="width:45px;height:45px;"></a>&nbsp;&nbsp;<a href="https://www.python.org"><img src="/Assets/python.png" alt="C Programming" style="width:45px;height:45px;"></a>&nbsp;&nbsp;<a href="https://html.spec.whatwg.org"><img src="/Assets/html5.png" alt="C Programming" style="width:45px;height:45px;"></a>
 
-
+<!--
 #### &#x1f4c8;Stats
-
-![Aadith's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadi1011&theme=github_dark&count_private=true&show_icons=true&hide_rank=true)
+-->
+![Aadith's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadi1011&theme=github_dark&count_private=true&show_icons=true&hide_rank=true&custom_title=📈Aadith's&nbsp;GitHub&nbsp;Stats&include_all_commits=true)
 
 
 
