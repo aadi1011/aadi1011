@@ -7,7 +7,7 @@ I am a student pursuing B.Tech in Artificial Intelligence & Machine Learning �
 </br>- 📫 How to reach me: <a href="mailto:saadith2002@gmail.com">E-mail📧</a> </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aadith-sukumar/">LinkedIn🌐</a>
 
 ### 📖Languages:
-<a href="https://www.cprogramming.com"><img src="/Assets/c.png" alt="C Programming" style="width:45px;height:45px;"></a>&nbsp;&nbsp;<a href="https://www.cplusplus.org"><img src="/Assets/cpp.png" alt="C Programming" style="width:45px;height:45px;"></a>&nbsp;&nbsp;<a href="https://www.python.org"><img src="/Assets/python.png" alt="C Programming" style="width:45px;height:45px;"></a>&nbsp;&nbsp;<a href="https://html.spec.whatwg.org"><img src="/Assets/html5.png" alt="C Programming" style="width:45px;height:45px;"></a>
+<a href="https://www.cprogramming.com" target="_blank"><img src="/Assets/c.png" alt="C Programming" style="width:45px;height:45px;"></a>&nbsp;&nbsp;<a href="https://www.cplusplus.org" target="_blank"><img src="/Assets/cpp.png" alt="C Programming" style="width:45px;height:45px;"></a>&nbsp;&nbsp;<a href="https://www.python.org" target="_blank"><img src="/Assets/python.png" alt="C Programming" style="width:45px;height:45px;"></a>&nbsp;&nbsp;<a href="https://html.spec.whatwg.org" target="_blank"><img src="/Assets/html5.png" alt="C Programming" style="width:45px;height:45px;"></a>
 
 <!--
 #### &#x1f4c8;Stats
