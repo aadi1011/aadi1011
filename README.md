@@ -3,7 +3,7 @@
 I am a student pursuing B.Tech in Artificial Intelligence & Machine Learning 🧠🖥️. Cybersecurity enthusiast and avid learner. </br>Training in C/C++/Python/HTML👨🏽‍💻. 
 </br>Certified information security and CEH.🔐
 </br>Beginner to Intermediate experience in Windows OS, Linux OS. 
-</br>- 🔭 I’m currently working on a Python based Network Analyzer than makes network traffic caputured data easy to interpret.
+</br>- 🔭 I’m currently working on a Python based Network Analyzer that makes network traffic caputured data easy to interpret.
 </br>- 📫 How to reach me: <a href="mailto:saadith2002@gmail.com">E-mail📧</a> </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aadith-sukumar/">LinkedIn🌐</a>
 
 ### 📖Languages:
