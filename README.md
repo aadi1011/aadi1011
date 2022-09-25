@@ -1,9 +1,10 @@
 <h1 align='center'>Hi, I am Aadith Sukumar 👋</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=2EA1D3&center=true&width=1000&height=35&lines=Engineering+Student;Cybersecurity+Enthusiast;AI+%26+ML+inclined;Always+Learning;Actor%2C+Thinker%2C+Creator" alt="Typing SVG" /></a></br>
-I am a student pursuing B.Tech in Artificial Intelligence & Machine Learning 🧠🖥️. Cybersecurity enthusiast and avid learner. </br>Training in C/C++/Python/HTML👨🏽‍💻. 
-</br>Certified information security and CEH.🔐
-</br>Beginner to Intermediate experience in Windows OS, Linux OS. 
+<a href="https://github.com/aadi1011"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=2EA1D3&center=true&width=1000&height=45&lines=Engineering+Student;Cybersecurity+Enthusiast;AI+%26+ML+inclined;Always+Learning;Actor%2C+Thinker%2C+Creator" alt="Typing SVG" /></a></br>
+### 👨‍💻@whoami:
+I am a student pursuing my Bachelors Degree in Artificial Intelligence & Machine Learning 🧠🖥️. </br>Cybersecurity enthusiast and avid learner. </br>Training in C/C++/Python/HTML 👨🏽‍💻
+</br>Certified information security and CEH 🔐
+</br>Beginner to Intermediate experience in Windows OS, Linux OS 
 </br>- 🔭 I’m currently working on a Python based Network Analyzer that makes network traffic caputured data easy to interpret.
 </br>- 📫 How to reach me: <a href="mailto:saadith2002@gmail.com">E-mail📧</a> </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aadith-sukumar/">LinkedIn🌐</a>
 
