@@ -1,6 +1,6 @@
 <h1 align='center'>Hi, I am Aadith Sukumar 👋</h1>
 
-<a href="https://github.com/aadi1011"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&color=2EA1D3&center=true&width=950&height=55&lines=Engineering+Student;Cybersecurity+Enthusiast;AI+%26+ML+inclined;Always+Learning;Actor%2C+Thinker%2C+Creator" alt="Typing SVG" /></a></br>
+<a href="https://github.com/aadi1011"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&color=2EA1D3&center=true&width=945&height=55&lines=Engineering+Student;Cybersecurity+Enthusiast;AI+%26+ML+inclined;Always+Learning;Actor%2C+Thinker%2C+Creator" alt="Typing SVG" /></a></br>
 ### 👨‍💻@whoami:
 I am a student pursuing my Bachelors Degree in Artificial Intelligence & Machine Learning 🧠🖥️. </br>Cybersecurity enthusiast and avid learner. </br>Training in C/C++/Python/HTML 👨🏽‍💻
 </br>Certified information security and CEH 🔐
