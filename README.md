@@ -19,11 +19,13 @@ I am a student pursuing my Bachelors Degree in Artificial Intelligence & Machine
 
 <a href="https://github.com/aadi1011">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aadi1011&theme=github_dark&count_private=true&show_icons=true&hide_rank=true&custom_title=📈Aadith's&nbsp;GitHub&nbsp;Stats&include_all_commits=true" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+<!--
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/aadi1011">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi1011&layout=compact&theme=github_dark&langs_count=10" />
 </a>
-
+-->
 
 <!--
 **aadi1011/aadi1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
