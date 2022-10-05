@@ -3,8 +3,8 @@
 <a href="https://github.com/aadi1011"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&color=2EA1D3&center=true&width=935&height=55&lines=Engineering+Student;Cybersecurity+Enthusiast;AI+%26+ML+inclined;Always+Learning;Actor%2C+Thinker%2C+Creator" alt="Typing SVG" /></a></br>
 ### 👨‍💻@whoami:
 I am a student pursuing my Bachelors Degree in Artificial Intelligence & Machine Learning 🧠🖥️. </br>Cybersecurity enthusiast and avid learner. </br>Training in C/C++/Python/HTML 👨🏽‍💻
-</br>Certified information security and CEH 🔐
-</br>Beginner to Intermediate experience in Windows OS, Linux OS 
+</br>Certified information security and C.E.H. 🔐
+</br>Beginner to Intermediate experience in Windows OS, Linux OS. 
 </br>- 🔭 I’m currently working: on a Python based Network Analyzer that makes network traffic caputured data easy to interpret.
 </br>- 🔭Academic project to analyse various datasets and implement machine learning.  
 </br>- 📫 How to reach me: <a href="mailto:saadith2002@gmail.com">E-mail📧</a> </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aadith-sukumar/">LinkedIn🌐</a>
