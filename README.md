@@ -10,8 +10,9 @@ I am a student pursuing my Bachelors Degree in Artificial Intelligence & Machine
 </br>- 📫 How to reach me: <a href="mailto:saadith2002@gmail.com">E-mail📧</a> </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aadith-sukumar/">LinkedIn🌐</a>
 
 ### 📖Languages and Tools:
-<a href="https://www.cprogramming.com" target="_blank"><img src="/Assets/c.png" alt="C Programming" style="width:40px;height:40px;"></a>&nbsp;&nbsp;<a href="https://www.cplusplus.org" target="_blank"><img src="/Assets/cpp.png" alt="C Programming" style="width:40px;height:40px;"></a>&nbsp;&nbsp;<a href="https://www.python.org" target="_blank"><img src="/Assets/python.png" alt="C Programming" style="width:40px;height:40px;"></a>&nbsp;&nbsp;<a href="https://pandas.pydata.org" target="_blank"><img src="/Assets/Pandas_logo.svg.png" alt="Pandas - Py" style="width:40px;height:40px;"></a>&nbsp;&nbsp;
+<a href="https://www.cprogramming.com" target="_blank"><img src="/Assets/c.png" alt="C Programming" style="width:40px;height:40px;"></a>&nbsp;&nbsp;<a href="https://www.cplusplus.org" target="_blank"><img src="/Assets/cpp.png" alt="C++ Programming" style="width:40px;height:40px;"></a>&nbsp;&nbsp;<a href="https://www.python.org" target="_blank"><img src="/Assets/python.png" alt="C Programming" style="width:40px;height:40px;"></a>&nbsp;&nbsp;<a href="https://pandas.pydata.org" target="_blank"><img src="/Assets/Pandas_logo.svg.png" alt="Pandas - Py" style="width:40px;height:40px;"></a>&nbsp;
 <a href="https://html.spec.whatwg.org" target="_blank"><img src="/Assets/html5.png" alt="C Programming" style="width:40px;height:40px;"></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="/Assets/mysql.png" alt="C Programming" style="width:50px;"></a>&nbsp;&nbsp;
 
 
 <!--
