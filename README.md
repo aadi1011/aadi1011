@@ -10,9 +10,16 @@ I am a student pursuing my Bachelors Degree in Artificial Intelligence & Machine
 </br>- 📫 How to reach me: <a href="mailto:saadith2002@gmail.com">E-mail📧</a> </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aadith-sukumar/">LinkedIn🌐</a>
 
 ### 📖Languages and Tools:
-<a href="https://www.cprogramming.com" target="_blank"><img src="/Assets/c.png" alt="C Programming" style="width:40px;height:40px;"></a>&nbsp;&nbsp;<a href="https://www.cplusplus.org" target="_blank"><img src="/Assets/cpp.png" alt="C++ Programming" style="width:40px;height:40px;"></a>&nbsp;&nbsp;<a href="https://www.python.org" target="_blank"><img src="/Assets/python.png" alt="Python Programming" style="width:40px;height:40px;"></a>&nbsp;&nbsp;<a href="https://pandas.pydata.org" target="_blank"><img src="/Assets/Pandas_logo.svg.png" alt="Pandas - Py" style="width:40px;height:40px;"></a>&nbsp;
-<a href="https://html.spec.whatwg.org" target="_blank"><img src="/Assets/html5.png" alt="HTML5 Programming" style="width:40px;height:40px;"></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="/Assets/mysql.png" alt="MySQL Programming" style="width:50px;"></a>&nbsp;&nbsp;
+<a href="https://www.cprogramming.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png" alt="C Programming" style="width:40px;height:40px;"></a>&nbsp;&nbsp;
+<a href="https://www.cplusplus.org" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/cplusplus-1-1175244.png" alt="C++ Programming" style="width:40px;height:40px;"></a>&nbsp;&nbsp;
+<a href="https://www.python.org" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="Python Programming" style="width:40px;height:40px;"></a>&nbsp;&nbsp;
+<a href="https://pandas.pydata.org" target="_blank"><img src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg" alt="Pandas - Py" style="width:60px;height:60px;"></a>&nbsp;
+<a href="https://html.spec.whatwg.org" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/html-5-1-1175208.png" alt="HTML5 Programming" style="width:40px;height:40px;"></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" alt="MySQL Programming" style="width:50px;"></a>&nbsp;&nbsp;
+<a href="https://www.linux.org/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/linux-21-1174928.png" alt="Linux" style="width:50px;"></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/git-17-1175218.png" alt="Linux" style="width:50px;"></a>&nbsp;&nbsp;
+<a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/adobe-premiere-pro-4238649-3516522.png" alt="Linux" style="width:50px;"></a>&nbsp;&nbsp;
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-4238646-3516519.png" alt="Linux" style="width:50px;"></a>&nbsp;&nbsp;
 
 
 <!--
@@ -21,7 +28,7 @@ I am a student pursuing my Bachelors Degree in Artificial Intelligence & Machine
 
 <a href="https://github.com/aadi1011">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aadi1011&theme=github_dark&count_private=false&show_icons=true&hide_rank=true&custom_title=📈Aadith's&nbsp;GitHub&nbsp;Stats&include_all_commits=true" />
-</a>
+</a> 
 
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,6 +36,9 @@ I am a student pursuing my Bachelors Degree in Artificial Intelligence & Machine
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi1011&layout=compact&theme=github_dark&langs_count=10" />
 </a>
 -->
+
+<a href="https://github.com/aadi1011"><img align="center" src="https://github-profile-trophy.vercel.app/?username=aadi1011&theme=discord&no-frame=true&no-bg=true&margin-w=2&row=1&column=4"/></a>
+
 
 <!--
 **aadi1011/aadi1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
