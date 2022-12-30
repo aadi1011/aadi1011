@@ -7,7 +7,6 @@ I am a student pursuing my Bachelors Degree in Artificial Intelligence & Machine
 </br>Beginner to Intermediate experience in Windows OS, Linux OS. 
 </br>- 🔭 I’m currently working: on a Python based Network Analyzer that makes network traffic caputured data easy to interpret.
 </br>- 🔭Academic project to analyse various datasets and implement machine learning.  
-</br>
 ### 📫Let's connect:
 <a href="mailto:saadith2002@gmail.com" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmail" style="width:45px;height:45px;"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aadith-sukumar/" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" alt="Gmail" style="width:45px;height:45px;"></a>
