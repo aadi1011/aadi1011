@@ -16,6 +16,7 @@ I am a student pursuing my Bachelors Degree in Artificial Intelligence & Machine
 <a href="https://www.cplusplus.org" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/cplusplus-1-1175244.png" alt="C++ Programming" style="width:50px;height:50px;"></a>&nbsp;&nbsp;
 <a href="https://www.python.org" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="Python Programming" style="width:50px;height:50px;"></a>&nbsp;&nbsp;
 <a href="https://pandas.pydata.org" target="_blank"><img src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg" alt="Pandas - Py" style="width:70px;height:70px;"></a>&nbsp;
+<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="SciKit Learn" style="width:100px;height:70px;"></a>&nbsp;
 <a href="https://html.spec.whatwg.org" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/html-5-1-1175208.png" alt="HTML5 Programming" style="width:50px;height:50px;"></a>
 <a href="https://www.java.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/java-60-1174953.png" alt="Java Programming" style="width:50px;height:50px;"></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" alt="MySQL Programming" style="width:50px;"></a>&nbsp;&nbsp;
