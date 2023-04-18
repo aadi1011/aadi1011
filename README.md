@@ -14,11 +14,11 @@ I am a student pursuing my Bachelors Degree in Artificial Intelligence & Machine
 ### 📖Languages and Tools:
 <a href="https://www.cprogramming.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png" alt="C Programming" style="width:50px;height:50px;"></a>&nbsp;&nbsp;
 <a href="https://www.cplusplus.org" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/cplusplus-1-1175244.png" alt="C++ Programming" style="width:50px;height:50px;"></a>&nbsp;&nbsp;
+<a href="https://www.java.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/java-60-1174953.png" alt="Java Programming" style="width:50px;height:50px;"></a>
 <a href="https://www.python.org" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="Python Programming" style="width:50px;height:50px;"></a>&nbsp;&nbsp;
 <a href="https://pandas.pydata.org" target="_blank"><img src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg" alt="Pandas - Py" style="width:70px;height:70px;"></a>&nbsp;
-<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="SciKit Learn" style="width:100px;height:70px;"></a>&nbsp;
+<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="SciKit Learn" style="width:85px;height:60px;"></a>&nbsp;
 <a href="https://html.spec.whatwg.org" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/html-5-1-1175208.png" alt="HTML5 Programming" style="width:50px;height:50px;"></a>
-<a href="https://www.java.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/java-60-1174953.png" alt="Java Programming" style="width:50px;height:50px;"></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" alt="MySQL Programming" style="width:50px;"></a>&nbsp;&nbsp;
 <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/linux-21-1174928.png" alt="Linux" style="width:50px;"></a>&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/git-17-1175218.png" alt="Linux" style="width:50px;"></a>&nbsp;&nbsp;
