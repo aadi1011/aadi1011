@@ -11,6 +11,7 @@ I am a student pursuing my Undergrad Degree in Artificial Intelligence & Machine
 
 ### 📫Let's connect:
 <a href="mailto:saadith2002@gmail.com" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmail" style="width:45px;height:45px;"></a>&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/aadith-sukumar/" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" alt="Gmail" style="width:45px;height:45px;"></a>
 
 ### 📖Languages and Tools:
