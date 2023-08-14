@@ -2,7 +2,7 @@
 
 <a href="https://github.com/aadi1011"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&color=2EA1D3&center=true&width=935&height=55&lines=Engineering+Student;Cybersecurity+Enthusiast;AI+%26+ML+inclined;Always+Learning;Actor%2C+Thinker%2C+Creator" alt="Typing SVG" /></a></br>
 ### 👨‍💻@whoami:
-I am a student pursuing my Undergrad Degree in Artificial Intelligence & Machine Learning with Specialization in Security & Privacy 🧠🖥️. </br>Working as a research intern</br>Cybersecurity enthusiast and avid learner. </br>Programmer in C/C++/Python/Java/SQL/HTML 👨🏽‍💻
+I am a student pursuing my Undergraduate Degree in Artificial Intelligence & Machine Learning with Specialization in Security & Privacy 🧠🖥️. </br>Working as a research intern</br>Cybersecurity enthusiast and avid learner. </br>Programmer in C/C++/Python/Java/SQL/HTML 👨🏽‍💻
 </br>Certified information security and C.E.H. 🔐
 </br>Data Scientist & ML Engineer 🔐
 </br>Beginner to Intermediate experience in Windows OS, Linux OS. 
