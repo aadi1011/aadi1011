@@ -62,3 +62,7 @@ Here are some ideas to get you started:
 -->
 
 [![ok](https://visitcount.itsvg.in/api?id=aadi1011&label=aadi1011&color=12&icon=0&pretty=true)](https://github.com/aadi1011)
+
+<!--    [![An image of @aadi1011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadi1011)](https://holopin.io/@aadi1011) --> 
+
+
