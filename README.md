@@ -2,10 +2,12 @@
 
 <a href="https://github.com/aadi1011"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&color=2EA1D3&center=true&width=935&height=55&lines=Engineering+Student;Cybersecurity+Enthusiast;AI+%26+ML+inclined;Always+Learning;Actor%2C+Thinker%2C+Creator" alt="Typing SVG" /></a></br>
 ### 👨‍💻@whoami:
-I am a student pursuing my Undergraduate Degree in Artificial Intelligence & Machine Learning with Specialization in Security & Privacy 🧠🖥️. </br>Cybersecurity enthusiast and avid learner. </br>Programmer in C/C++/Python/Java/SQL/HTML 👨🏽‍💻
-</br>Certified information security and C.E.H. 🔐
-</br>Data Scientist & ML Engineer 🔐
-</br>Beginner to Intermediate experience in Windows OS, Linux OS. 
+I am a student pursuing my Undergraduate Degree in Artificial Intelligence & Machine Learning with Specialization in Security & Privacy 🧠🖥️. </br>Cybersecurity enthusiast and avid learner. 
+</br>👨🏽‍💻Programmer in C/C++/Python/Java/SQL/HTML 
+</br>🔐Certified information security and C.E.H. 
+</br>🧠Data Scientist & ML Engineer 
+</br>🏅Completed Hacktoberfest 2023 and Hall of Famer
+</br>💻Beginner to Intermediate experience in Windows OS, Linux OS. 
 </br>- 🔭 I’m currently working: on a Python based Network Analyzer that makes network traffic caputured data easy to interpret.
 </br>- 🔭 Learning Front-End: React JS, Node JS, Bootstrap
 
@@ -45,6 +47,7 @@ I am a student pursuing my Undergraduate Degree in Artificial Intelligence & Mac
 
 <a href="https://github.com/aadi1011"><img align="center" src="https://github-profile-trophy.vercel.app/?username=aadi1011&theme=discord&no-frame=true&no-bg=true&margin-w=2&row=1&column=4"/></a>
 
+[![An image of @aadi1011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadi1011)](https://holopin.io/@aadi1011)
 
 <!--
 **aadi1011/aadi1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
