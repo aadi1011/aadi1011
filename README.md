@@ -12,8 +12,11 @@ I am a student pursuing my Undergraduate Degree in Artificial Intelligence & Mac
 </br>- 🔭 Learning Front-End: React JS, Node JS, Bootstrap
 
 ### 📫Let's connect:
-<a href="mailto:saadith2002@gmail.com" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmail" style="width:45px;height:45px;"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aadith-sukumar/" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" alt="Gmail" style="width:45px;height:45px;"></a>
+<a href="mailto:saadith2002@gmail.com" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmail" style="width:45px;height:45px;"></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aadith-sukumar/" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" alt="LinkedIn" style="width:45px;height:45px;"></a>
+&nbsp;&nbsp;
+<a href="https://medium.com/@saadith2002" target='_blank'><img src="https://github.com/aadi1011/aadi1011/assets/62766172/e404671e-548c-4304-bc98-f240b8268ef1" alt="Medium" style="width:45px;height:45px;"></a>
 
 ### 📖Languages and Tools:
 <a href="https://www.cprogramming.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png" alt="C Programming" style="width:50px;height:50px;"></a>&nbsp;&nbsp;
