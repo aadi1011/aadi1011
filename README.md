@@ -8,8 +8,8 @@ I am a student pursuing my Undergraduate Degree in Artificial Intelligence & Mac
 </br>🧠Data Scientist & ML Engineer 
 </br>🏅Completed Hacktoberfest 2023 and Hall of Famer
 </br>💻Intermediate experience in Windows OS, Linux OS. 
-</br>- 🔭 I’m currently working: on a Python based Network Analyzer that makes network traffic caputured data easy to interpret.
-</br>- 🔭 Learning Front-End: React JS, Node JS, Bootstrap
+</br> 🔭 I’m currently working: on a Python based Network Analyzer that makes network traffic caputured data easy to interpret.
+</br> 🔭 Learning Front-End: React JS, Node JS, Bootstrap
 
 ### 📫Let's connect:
 <a href="mailto:saadith2002@gmail.com" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmail" style="width:45px;height:45px;"></a>
@@ -69,6 +69,5 @@ Here are some ideas to get you started:
 
 [![ok](https://visitcount.itsvg.in/api?id=aadi1011&label=aadi1011&color=12&icon=0&pretty=true)](https://github.com/aadi1011)
 
-<!--    [![An image of @aadi1011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadi1011)](https://holopin.io/@aadi1011) --> 
 
 
