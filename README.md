@@ -6,7 +6,7 @@ I am a student pursuing my Undergraduate Degree in Artificial Intelligence & Mac
 </br>👨🏽‍💻Programmer in C/C++/Python/Java/SQL/HTML 
 </br>🔐Certified information security and C.E.H. 
 </br>🧠Data Scientist & ML Engineer 
-</br>🏅Completed Hacktoberfest 2023 and Hall of Famer
+</br>🏅Completed Hacktoberfest 2023 | Hall of Famer
 </br>💻Intermediate experience in Windows OS, Linux OS. 
 </br> 🔭 I’m currently working: Advanced Image Processor
 </br> 🔭 Learning Front-End: React JS, Node JS, Bootstrap
