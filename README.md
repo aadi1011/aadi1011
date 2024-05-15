@@ -8,7 +8,7 @@ I am a student pursuing my Undergraduate Degree in Artificial Intelligence & Mac
 </br>🧠Data Scientist & ML Engineer 
 </br>🏅Completed Hacktoberfest 2023 | Hall of Famer
 </br>💻Intermediate experience in Windows OS, Linux OS. 
-</br> 🔭 I’m currently working: Real-Time Advanced Image Processor
+</br> 🔭 I’m currently working on: Inverse Reinforcement Learning
 </br> 🔭 Learning Front-End: React JS, Node JS, Bootstrap
 </br>
 
