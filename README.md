@@ -10,7 +10,6 @@ I am a student pursuing my Undergraduate Degree in Artificial Intelligence & Mac
 </br>💻Intermediate experience in Linux. 
 </br> 🔭 I’m currently working on: Inverse Reinforcement Learning
 </br> 🔭 Learning Front-End: React JS, Node JS, Bootstrap
-</br>
 
 ### 📫Let's connect:
 <a href="mailto:saadith2002@gmail.com" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmail" style="width:45px;height:45px;"></a>
