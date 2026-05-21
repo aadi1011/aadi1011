@@ -2,12 +2,14 @@
 
 <a href="https://github.com/aadi1011"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&color=2EA1D3&center=true&width=935&height=55&lines=Engineering+Student;Cybersecurity+Enthusiast;AI+%26+ML+inclined;Always+Learning;Actor%2C+Thinker%2C+Creator" alt="Typing SVG" /></a></br>
 ### 👨‍💻@whoami:
-I am a student pursuing my Undergraduate Degree in Artificial Intelligence & Machine Learning with Specialization in Security & Privacy 🧠🖥️. </br>Cybersecurity enthusiast and avid learner. 
-</br>👨🏽‍💻Programmer in C/C++/Python/Java/SQL/HTML 
-</br>🔐Certified information security and C.E.H. 
-</br>🧠Data Scientist & ML Engineer 
-</br>🏅Completed Hacktoberfest 2023 | Hall of Famer
-</br>💻Intermediate experience in Linux. 
+</br>🚢 Associate Software Engineer working on Generative and Agentic AI Systems at Maersk.
+</br>💻 Majors in Artificial Intelligence & Machine Learning with Specialization in Security & Privacy 🧠🖥️. 
+</br>🥷 Cybersecurity enthusiast and avid learner. 
+</br>👨🏽‍💻 Programmer in Python/Java/JS/SQL/C++
+</br>🔐 Certified information security and C.E.H. 
+</br>🧠 Data Scientist & ML Engineer 
+</br>🏅 Completed Hacktoberfest 2023 | Hall of Famer
+</br>💻 Intermediate experience in Linux. 
 </br> 🔭 I’m currently working on: Inverse Reinforcement Learning
 </br> 🔭 Learning Front-End: React JS, Node JS, Bootstrap
 
